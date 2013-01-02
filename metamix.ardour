@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="metamix" sample-rate="44100" id-counter="2010" event-counter="0">
+<Session version="3001" name="metamix" sample-rate="44100" id-counter="2816" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -1058,9 +1058,9 @@
     </Region>
   </Regions>
   <Locations>
-    <Location id="86" name="Loop" start="0" end="400338236" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
+    <Location id="86" name="Loop" start="0" end="401409687" flags="IsAutoLoop,IsHidden" locked="no" position-lock-style="AudioTime"/>
     <Location id="87" name="Punch" start="0" end="1" flags="IsAutoPunch,IsHidden" locked="no" position-lock-style="AudioTime"/>
-    <Location id="158" name="session" start="0" end="400338236" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+    <Location id="158" name="session" start="0" end="401409687" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <Routes>
@@ -1154,7 +1154,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="122" flags="GainLike" value="1.102453255675"/>
+        <Controllable name="gaincontrol" id="122" flags="GainLike" value="1.000000000000"/>
       </Processor>
       <Processor id="123" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="124" name="A" active="yes" user-latency="0" own-input="yes" own-output="no" output="A" type="main-outs" role="Main">
@@ -1213,7 +1213,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="195" flags="GainLike" value="1.035460948944"/>
+        <Controllable name="gaincontrol" id="195" flags="GainLike" value="1.000000000000"/>
       </Processor>
       <Processor id="196" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="197" name="B" active="yes" user-latency="0" own-input="yes" own-output="no" output="B" type="main-outs" role="Main">

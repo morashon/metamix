@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1357099862" tv-usec="794440" name="delete objects">
+    <MementoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.450589090585709
+219724761 0.620485961437225
+221173950 0.620485961437225
+221721423 1.00049245357513
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.450589090585709
+221173950 0.620485961437225
+221721423 1.00049245357513
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357099870" tv-usec="415424" name="automation event move">
+    <MementoUndoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 0.985851287841797
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357099880" tv-usec="592442" name="add automation event">
+    <MementoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.43167507648468
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357099884" tv-usec="29762" name="automation event move">
+    <MementoUndoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.43167507648468
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357099885" tv-usec="613884" name="add automation event">
+    <MementoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+241849510 0.985851287841797
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357099894" tv-usec="626677" name="automation event move">
+    <MementoUndoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+241849510 0.985851287841797
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+241849510 1.00049245357513
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100015" tv-usec="731878" name="automation event move">
+    <MementoUndoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.450589090585709
+221173950 0.620485961437225
+221721423 1.00049245357513
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221721423 1.00049245357513
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100178" tv-usec="34250" name="automation event move">
+    <MementoUndoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221721423 1.00049245357513
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221689219 1.00049269199371
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100185" tv-usec="625092" name="automation event move">
+    <MementoUndoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221689219 1.00049269199371
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100186" tv-usec="636194" name="add automation event">
+    <MementoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+221915097 0.721770524978638
+221915098 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100189" tv-usec="521935" name="automation event move">
+    <MementoUndoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+221915097 0.721770524978638
+221915098 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100191" tv-usec="408508" name="delete objects">
+    <MementoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+221915097 0.721770524978638
+221915098 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+221915097 0.721770524978638
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100205" tv-usec="942385" name="automation event move">
+    <MementoUndoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+221915097 0.721770524978638
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100207" tv-usec="499720" name="delete objects">
+    <MementoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221914649 1.05060172080994
+221915097 0.721770524978638
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.721770524978638
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100222" tv-usec="538073" name="add automation event">
+    <MementoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.721770524978638
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.721770524978638
+226965656 0.846804022789001
+226965657 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100228" tv-usec="973484" name="automation event move">
+    <MementoUndoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.721770524978638
+226965656 0.846804022789001
+226965657 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.846804082393646
+226965656 0.846804022789001
+226965657 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100250" tv-usec="169137" name="automation event move">
+    <MementoUndoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.846804082393646
+226965656 0.846804022789001
+226965657 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100251" tv-usec="695250" name="delete objects">
+    <MementoCommand obj-id="121" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.846804082393646
+226965656 0.846804022789001
+226965657 1.00049257278442
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+      <AutomationList automation-id="gain" id="121" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+204259617 1.00049245357513
+206993810 0.609919130802155
+219724760 0.542271673679352
+221173950 0.620485961437225
+221915097 0.846804082393646
+226965656 0.846804022789001
+228674522 1.00049257278442
+320222498 0.016663633286953
+320899048 1.00049257278442
+</events>
+      </AutomationList>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100733" tv-usec="896058" name="automation event move">
+    <MementoUndoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+241849510 1.00049245357513
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+243153407 1.05060172080994
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1357100747" tv-usec="684435" name="automation event move">
+    <MementoUndoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+241559672 1.30940413475037
+243153407 1.05060172080994
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj-id="194" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="gain" id="194" default="1" min-yval="0" max-yval="1.99526226521" interpolation-style="Linear" state="Play" style="Absolute">
+        <events>0 1
+171267723 1.00049257278442
+174471569 1.00049257278442
+226855559 0
+226873305 0.00110735045745969
+226898816 0.0244070198386908
+226948729 1.32718658447266
+243023481 1.30940413475037
+243153407 1.05060172080994
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+</UndoHistory>

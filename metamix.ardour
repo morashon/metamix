@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3001" name="metamix" sample-rate="44100" id-counter="1171" event-counter="0">
+<Session version="3001" name="metamix" sample-rate="44100" id-counter="1608" event-counter="0">
   <Config>
     <Option name="xfade-choice" value="ConstantPowerMinus3dB"/>
     <Option name="destructive-xfade-msecs" value="2"/>
@@ -15,7 +15,7 @@
     <Option name="subframes-per-frame" value="100"/>
     <Option name="timecode-format" value="timecode_30"/>
     <Option name="raid-path" value=""/>
-    <Option name="audio-search-path" value=""/>
+    <Option name="audio-search-path" value="/home/dbm/bench/morashon/mix/metamix/interchange/metamix/audiofiles"/>
     <Option name="midi-search-path" value=""/>
     <Option name="jack-time-master" value="1"/>
     <Option name="use-video-sync" value="0"/>
@@ -1067,12 +1067,12 @@
     <Route id="21" name="master" default-type="audio" flags="MasterOut" active="yes" phase-invert="00" denormal-protection="no" meter-point="MeterPostFader" order-keys="EditorSort=0:MixerSort=0" self-solo="no" soloed-by-upstream="0" soloed-by-downstream="0" solo-isolated="no" solo-safe="no">
       <IO name="master" id="38" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="master/audio_in 1">
-          <Connection other="A/audio_out 1"/>
           <Connection other="B/audio_out 1"/>
+          <Connection other="A/audio_out 1"/>
         </Port>
         <Port type="audio" name="master/audio_in 2">
-          <Connection other="A/audio_out 2"/>
           <Connection other="B/audio_out 2"/>
+          <Connection other="A/audio_out 2"/>
         </Port>
       </IO>
       <IO name="master" id="39" direction="Output" default-type="audio" user-latency="0">
@@ -1146,11 +1146,15 @@
 226965656 0.846804022789001
 228674522 1.00049257278442
 320222498 0.016663633286953
-320899048 1.00049257278442
+320771278 1.21121466159821
+337153426 1.23185956478119
+337374842 1.1024534702301
+362390129 1.10245323181152
+362776579 0.956145107746124
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="122" flags="GainLike" value="1.000492572784"/>
+        <Controllable name="gaincontrol" id="122" flags="GainLike" value="0.956145107746"/>
       </Processor>
       <Processor id="123" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="124" name="A" active="yes" user-latency="0" own-input="yes" own-output="no" output="A" type="main-outs" role="Main">
@@ -1202,10 +1206,14 @@
 226948729 1.32718658447266
 243023481 1.30940413475037
 243153407 1.05060172080994
+319559699 1.03546094894409
+319581788 0.0458168797194958
+319613730 0.0458168797194958
+319645672 1.03546094894409
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="195" flags="GainLike" value="1.050601720810"/>
+        <Controllable name="gaincontrol" id="195" flags="GainLike" value="1.035460948944"/>
       </Processor>
       <Processor id="196" name="Meter" active="yes" user-latency="0" type="meter"/>
       <Processor id="197" name="B" active="yes" user-latency="0" own-input="yes" own-output="no" output="B" type="main-outs" role="Main">
@@ -1807,7 +1815,7 @@
         </Object>
         <Object id="route 101" color="8381:19141:18075"/>
         <Object id="rtav 101" height="72" visible="1"/>
-        <Object id="automation 122" height="72" visible="1"/>
+        <Object id="automation 122" height="247" visible="1"/>
         <Object id="automation 109" height="72" visible="0"/>
         <Object id="automation 113" height="72" visible="0"/>
         <Object id="strip 101" visible="1">

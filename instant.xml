@@ -23,7 +23,7 @@
       <Field name="date" enabled="false" value="D_None"/>
     </ExportFilename>
   </ExportProfile>
-  <Editor id="12" mixer-width="Wide" zoom-focus="ZoomFocusLeft" zoom="19903.302796" snap-to="SnapToBeatDiv28" snap-mode="SnapOff" internal-snap-to="SnapToBeat" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv28" pre-internal-snap-mode="SnapOff" edit-point="EditAtPlayhead" playhead="319444617" left-frame="303676247" y-origin="0.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" internal-edit="no" join-object-range="no" show-editor-mixer="no" show-editor-list="no" editor-list-page="0" show-marker-lines="no" nudge-clock-value="220500">
+  <Editor id="12" mixer-width="Wide" zoom-focus="ZoomFocusLeft" zoom="32204.220437" snap-to="SnapToBeatDiv28" snap-mode="SnapOff" internal-snap-to="SnapToBeat" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv28" pre-internal-snap-mode="SnapOff" edit-point="EditAtPlayhead" playhead="364810266" left-frame="321297543" y-origin="0.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" internal-edit="no" join-object-range="no" show-editor-mixer="no" show-editor-list="no" editor-list-page="0" show-marker-lines="no" nudge-clock-value="220500">
     <geometry x-size="1883" y-size="1048" x-pos="1" y-pos="0" edit-horizontal-pane-pos="1694" notebook-shrunk="0" edit-vertical-pane-pos="816"/>
     <Buttons>
       <Press/>

@@ -1,4 +1,5 @@
 metamix
 =======
 
-this is everything put together
+Obsolete -- see textMovie or whatever we came up with after that
+
